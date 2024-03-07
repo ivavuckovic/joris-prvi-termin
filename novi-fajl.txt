@@ -1,3 +1,4 @@
 "Neki tekst" 
 lalal
+neki tekst na master grani
 
